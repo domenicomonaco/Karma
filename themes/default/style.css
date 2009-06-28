@@ -1,0 +1,60 @@
+#line_folder{
+}
+
+
+
+body {
+	background-color: #E2E2E2;
+	background-image: url(png/wall.jpg);
+}
+.Stile7 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14px; font-weight: bold; color: #666666; }
+.Stile2 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8px; font-weight: bold; color: #666666; }
+.Stile3 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	color: white;
+}
+a:link {
+	text-decoration: none;
+	color: #666666;
+}
+a:visited {
+	text-decoration: none;
+	color: #666666;
+}
+a:hover {
+	text-decoration: none;
+	color: #666666;
+}
+a:active {
+	text-decoration: none;
+	color: #666666;
+}
+
+#menu li{
+display:inline;
+
+padding:2px;
+border:4px solid #fff;
+}
+.menu-title{
+display:inline;
+}
+
+
+
+#wrapper{
+width:1000px;
+
+margin-right:auto;
+margin-left:auto;
+
+
+
+}
+
+
+#element.lic-1{
+color:#c20000;
+
+}
